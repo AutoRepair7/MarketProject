@@ -42,6 +42,10 @@ Business Scope - https://incorporated.zone/business-scope/#:~:text=Scope%20in%20
 
 Business Domain - https://www.oreilly.com/library/view/what-is-domain-driven/9781492057802/ch01.html#:~:text=For%20example%3A%201%20FedEx%E2%80%94courier,delivery%202%20Starbucks%E2%80%94coffee%203%20Walmart%E2%80%94retail
 
+Information Environment - https://smallwarsjournal.com/jrnl/art/making-sense-information-environment#:~:text=The%20information%20environment%20comprises%20and%20aggregates%20numerous%20social%2C,of%20an%20individual%2C%20group%2C%20system%2C%20community%2C%20or%20organization.
+
+Business Processes - https://fasproc.com/blog/business-process/
+
 HiQ website - http://autorefinishes.com/
 
 # 3. Business Management Requirements
@@ -54,15 +58,92 @@ HiQ website - http://autorefinishes.com/
    The goal of the proposed system is to give the company more visibility, to allow people from everywhere to connect with them and their work. Customers will be able to follow their work closely and in real-time. 
    
    ## 3. Business Model
+   Only high quality materials and equipment shall be bought. 
    
+   Cars shall be heavily tested before, during, and after the procedures and repairs. 
    
+   Client shall always have access to honest information, updates, and check-ins. 
+   
+   Workshop shall be cleaned and organized every night after the workday is done.
    ## 4. Information environment
+   a) project portfolio - all projects in perfect AutoRepair usually pursue the same business goal: to fix the customer's car to perfection. The owner, who also works as a mechanic/technician, will gather the other workers to plan for whatever next plan they have in mind. Usually, projects will be run by first finding what is needed from the proect, next it is defined, and the actors who are to take it to completion are decided. Projects often consist of the usual mechanic car fixing, painting, or finding specific car pieces necessary at special stores.  
    
+   Some projects:
+   renovate workshop 
+   create new paint room
+   
+   b) long term system plan:
+   increase company awarness
+   lower cost of material and equipment
+   open improved workshop within the next five years
+   
+   c) Database configuration: A database that has tables holding information including:
+   * all cars that have been worked on, what was done, and who it belonged to/ paid for the service
+   * a waitlist of the cars waiting to be worked on, what they need, and who it belonged to/ paid for the service
+   * all the cars that are being worked on at the present time, what is being done, and who it belonged to/ paid for the service
+   * inventory of how much paint is in stock
+  
 # 4. Business operational requirements
    ## 1. Business processes
-   ## 2. Business operational policies and rules
-   ## 3. Business operational constraints
-   ## 4. Business operational modes
-   ## 5. Business operational quality
-   ## 6. Business structure
+   * Understand client Requirements
+   * Test product for more defects, technical understanding
+   * Gather necessary equipment/ materials
+   * Divide workload into smaller pieces
+   * Complete each piece each day
+   * Test product to check completion, missed defects
+   * Conclude with client's approval
    
+   ## 2. Business operational policies and rules
+   Emplyees shall strive to exceed client's expectations by using quality material, equipment, and providing a fast service.
+   
+   Workshop shall be left clean and organized every night. 
+   
+   Doors shall be locked by last employee to exit.
+   
+   Stakeholders shall meet together either physically or online biweekly to be updated on work processes. 
+   
+   Inventory should be checked at least once every two days, if down to five quarts, an order shall be placed.
+   
+   Every client, on the first date of service, shall be provided with an early estimate of the cost of services, alongside with a phone number for the purpose of getting and requesting updates during the process.
+   
+   All vehicles shall be tested before beginning any work on them, and they shall be tested again once the work is finished. 
+   
+   ## 3. Business operational constraints
+   Business Operation shall stop when a natural notice is given for the area. All equipment shall be locked inside workshop, and vehicles given back to clients.
+   
+   If service cannot be completed in expected timeframe, the client shall be notified within the first 24 hours of the schedule change. 
+   
+   A late fee shall be added if a client does not pay in time, and notify of the delay before the first 48 hours. 
+ 
+   ## 4. Business operational modes
+   In case of natural disaster, notify the client and return the vehicle to them. If client allows vehicle to remain in workshop, it will be locked inside alongside equipment. In case of extreme disaster, establishment cannot be held resposible for damage caused to property.
+   
+   After natural disaster, an assessment of damage done to personal property and client property shall be made. 
+   
+   If no damage has been caused by natural disaster, reopen workshop and gather materials outside, and place vehicles in the open garage. Operation can continue as usual.
+   
+   If great damage has been cause by natural disaster, notify clients of possible closure until further notice. If possible, remain partially open. 
+   
+   ## 5. Business operational quality
+   An estimated amount of time needed to finish a car will be produced and given to client within the first week of service. If the time exceeds estimate, notifying the client and finishing the project will take priority. 
+   
+   Safety of the vehicle takes utmost priority, and it shall be tested heavily from beginning to end of service. 
+   
+   Communication with client shall be constant and honest. Do not mislead customers in price or time for completion of project. 
+   
+   ## 6. Business structure
+   Two main divisions in Perfect AutoRepair:
+       Mechanic branch: deals with cars needing repair. The mechanics are the ones who work this branch
+       
+       Mechanic branch: deals with cars needing repair. The mechanics are the ones who work this branch
+       
+       Paint branch: deals with car design and presentation. The technicians are the ones who work this branch, with occasional mechanic
+      
+   Workshop is a small building with:
+       paint storage room and mixing station
+       
+       painting room: where technicians bring cars in for painting jobs
+      
+       mechanic room: specialized for disassembling and mounting cars for heavy mechanic work
+      
+       small office for customer inquiries and inventory orders
