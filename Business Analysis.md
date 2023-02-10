@@ -133,17 +133,45 @@ HiQ website - http://autorefinishes.com/
    
    ## 6. Business structure
    Two main divisions in Perfect AutoRepair:
+       Mechanic branch: deals with cars needing repair. The mechanics are the ones who work this branch 
        Mechanic branch: deals with cars needing repair. The mechanics are the ones who work this branch
-       
-       Mechanic branch: deals with cars needing repair. The mechanics are the ones who work this branch
-       
        Paint branch: deals with car design and presentation. The technicians are the ones who work this branch, with occasional mechanic
       
    Workshop is a small building with:
        paint storage room and mixing station
-       
        painting room: where technicians bring cars in for painting jobs
-      
        mechanic room: specialized for disassembling and mounting cars for heavy mechanic work
-      
        small office for customer inquiries and inventory orders
+
+# 5. Preliminary operational concept of proposed system
+## 5.1 Preliminary operational concept
+A website for Perfect AutoRepair. It will include a main page with a picture of the company, and a menu to choose options from. It will work as a website for general knowledge and information for the company.
+### a) operational policies and constraints;
+* Users will be able to use the website free of charge
+* Website will be featured with options for either spanish or english language
+* Website will only be updated with information by the owner and IT technician
+* Website will be go through maintenance the first saturday morning of each month
+### b) description of the proposed system;
+The website will serve as a general information page for the company. It will have an option to
+
+### c) modes of system operation;
+
+### d) user classes and other involved personnel; and
+
+### e) support environment.
+
+## 5.2 Preliminary operational scenarios
+
+# 6. Other preliminary life-cycle concepts
+## 6.1 Preliminary acquisition concept
+
+## 6.2 Preliminary deployment concept
+
+## 6.3 Preliminary support concept
+
+## 6.4 Preliminary retirement concept
+
+# 7. Project Constraints
+
+# 8. Appendix
+## 8.1 Acronyms and abbreviations
