@@ -181,14 +181,33 @@ When a new project is finished by the company, employees can choose to take pict
 * Owner will be the major stakeholder for the project. The owner and the developer will meet virtually bi-weekly to speak about requirements, progress, and constraints
 * Website will require a technological device such as desktop, laptop, tablet, or mobile phone to run successfuly
 * Website shall successfuly load and perform in Windows, Android, IOS and Ubuntu Operating Systems
-* 
+
 ## 6.2 Preliminary deployment concept
+* Developer will deliver prototypes throughout development
+* Once finished, multiple tests will be performed to check for performance
+* The website will be typed in different search systems to check that it successfully appears in the web
+* Test users will enter the website at different times in the day, and surf through the features
+* Maintenance will happen the first saturday morning of each month
 
 ## 6.3 Preliminary support concept
+* Stable, encrypted internet connection network
+* A technological device such as desktop, laptop, tablet, or mobile phone that can connect to a network
+* Devices will need to have access to power, or battery 
+* Device will need to have an operating system, such as:  Windows, Android, IOS and Ubuntu
+* A new IT Technician will be trained to take over the updates of the system once it is complete
 
 ## 6.4 Preliminary retirement concept
+At the time of retirement, the website will be closed with a goodbye message. The web hosting account and services will be cancelled, and website closed. The domain will be kept at the discretion of the company owner.
 
 # 7. Project Constraints
+* Project must be completed wihtin 6 months
+* Developer could meet time challenges within the university schedule
+* If costs exceed specified amount, there might be an additional wait time to continue
+* Development team is only made of one or two individuals
 
 # 8. Appendix
 ## 8.1 Acronyms and abbreviations
+* approx. - approximately
+* B.Y.O.D - bring your own device
+* workshp - workshop
+* ASCII - American Standard Code for Information Interchange
