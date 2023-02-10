@@ -146,25 +146,42 @@ HiQ website - http://autorefinishes.com/
 # 5. Preliminary operational concept of proposed system
 ## 5.1 Preliminary operational concept
 A website for Perfect AutoRepair. It will include a main page with a picture of the company, and a menu to choose options from. It will work as a website for general knowledge and information for the company.
+
 ### a) operational policies and constraints;
 * Users will be able to use the website free of charge
 * Website will be featured with options for either spanish or english language
 * Website will only be updated with information by the owner and IT technician
 * Website will be go through maintenance the first saturday morning of each month
 ### b) description of the proposed system;
-The website will serve as a general information page for the company. It will have an option to
+The website will serve as a general information page for the company. It will have a photo album feature, where authorized employees will be able to add and delete pictures of their work. There will be a specific page for general information like contact, address, and mission statement. It will have a waitlist feautre where users can see how many cars are being worked on, and when they will be done. 
 
 ### c) modes of system operation;
+* User mode: A user will be able to scroll through the website, see information, and pick from one of the options in the menu, and see the new page from the menu they have chosen
+* Kernel mode: Privilege access only given to authorized employees, owner, and developer. Kernel mode will allow to make changes to the data in the webpage
 
-### d) user classes and other involved personnel; and
+### d) user classes and other involved personnel
+* Customer
+* Owner
+* IT Technician
+* Employees
+* Developers
 
 ### e) support environment.
+* Private Network
+* Private computer with firewall and antivirus
+* Private workshop with roof, locked doors, air conditioner
+* Private office with lock
 
 ## 5.2 Preliminary operational scenarios
+Users can search the website name through any search engine and get in at any point in the day. The first page they will see is the main page, with a menu option. When a user clicks an option, they will be transported to that specific page, where they will see new information.
+When a new project is finished by the company, employees can choose to take pictures and upload them to the website album feature through an authorized employee. When project is finished, authorized employee will update waitlist to reflect an empty space. When new project begins, it will be placed in that empty spot. 
 
 # 6. Other preliminary life-cycle concepts
 ## 6.1 Preliminary acquisition concept
-
+* Owner will be the major stakeholder for the project. The owner and the developer will meet virtually bi-weekly to speak about requirements, progress, and constraints
+* Website will require a technological device such as desktop, laptop, tablet, or mobile phone to run successfuly
+* Website shall successfuly load and perform in Windows, Android, IOS and Ubuntu Operating Systems
+* 
 ## 6.2 Preliminary deployment concept
 
 ## 6.3 Preliminary support concept
